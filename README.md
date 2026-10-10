@@ -2,7 +2,7 @@
 <h3 align="center">An engineer who loves to build things and solve problems.</h3>
 
 <p align="center">
-  <b>Data Scientist @</b> <img src="assets/ibm.svg" height="14" alt="IBM" /> · PhD in Computer Science
+  <b>Data Scientist @</b> <img src="assets/ibm.svg" height="12" alt="IBM" /> · PhD in Computer Science
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Sales pipeline forecasting · Customer segmentation · Data pipelines · Data go
 
 ### Selected Work
 
-- **[SparkKG-ML](https://scholar.google.com/citations?view_op=view_citation&user=9dtNu6YAAAAJ&citation_for_view=9dtNu6YAAAAJ:9yKSN-GCB0IC)**: distributed ML over knowledge graphs, **up to 29x faster** than the state of the art. *ISWC '23* · [Code](https://github.com/IDIASLab/SparkKG-ML)
+- **[SparkKG-ML](https://scholar.google.com/citations?view_op=view_citation&user=9dtNu6YAAAAJ&citation_for_view=9dtNu6YAAAAJ:9yKSN-GCB0IC)**: distributed ML over knowledge graphs, **up to 29x faster** than the state of the art. *ISWC '23* 
 - **[KG Embeddings on Spark](https://scholar.google.com/citations?view_op=view_citation&user=9dtNu6YAAAAJ&citation_for_view=9dtNu6YAAAAJ:2osOgNQ5qMEC)**: embedding creation for graphs, **7x faster** than the state of the art. *IEEE BigData '24*
 - **[R2 Retrieval-Reranker](https://scholar.google.com/citations?view_op=view_citation&user=9dtNu6YAAAAJ&citation_for_view=9dtNu6YAAAAJ:qjMakFHDy7sC)**: knowledge graph completion with **+130% Hit@1** and **40–150x faster** training. *IEEE BigData '25*
 
